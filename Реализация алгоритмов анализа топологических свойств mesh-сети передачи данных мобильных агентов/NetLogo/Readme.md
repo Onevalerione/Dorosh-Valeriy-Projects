@@ -40,6 +40,12 @@
 ## Модель
 ![image](https://github.com/Onevalerione/Dorosh-Valeriy-Projects/assets/90389948/8870750a-d816-4360-bc48-e9ea46b07387)
 
+## Сеть БТС спустя 20 шагов
+До
+![image](https://github.com/Onevalerione/Dorosh-Valeriy-Projects/assets/90389948/d5322bd7-a0fa-4a83-b43a-8773f0a380ab)
+После
+![image](https://github.com/Onevalerione/Dorosh-Valeriy-Projects/assets/90389948/c15c16b0-1eb3-4897-bd4c-9f506db098fd)
+
 
 
 
