@@ -40,7 +40,7 @@
 ## Модель
 ![image](https://github.com/Onevalerione/Dorosh-Valeriy-Projects/assets/90389948/8870750a-d816-4360-bc48-e9ea46b07387)
 
-## Динамики сети
+## Динамика сети
 ![image](https://github.com/Onevalerione/Dorosh-Valeriy-Projects/assets/90389948/c4de29ef-04f0-4687-b110-17ebb171649d)
 
 
