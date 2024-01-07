@@ -37,6 +37,9 @@
 - Переходы:
     - import-network?: Дает возможность импорта GraphML файлов вместе с кнопкой Setup.
 
+## Модель
+![image](https://github.com/Onevalerione/Dorosh-Valeriy-Projects/assets/90389948/8870750a-d816-4360-bc48-e9ea46b07387)
+
 
 
 
